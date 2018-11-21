@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-qvvdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^5.9.0"
+  },
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qvvdata/eslint-config-qvvdata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvvdata/eslint-config-qvvdata/issues"
+  },
+  "homepage": "https://github.com/qvvdata/eslint-config-qvvdata#readme"
+}
