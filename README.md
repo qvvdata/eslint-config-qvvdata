@@ -12,4 +12,4 @@
 	}
 	```
 
-**Do not override rules in the .eslintrc local to your project but change them in this pacakge, push the changes to github and run npm update to get the latest changes in your project.**
+**Do not override rules in the .eslintrc local to your project but change them in this package, push the changes to github and run npm update to get the latest changes in your project.**
