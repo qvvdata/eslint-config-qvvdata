@@ -5,6 +5,7 @@ module.exports = {
     extends: 'eslint-config-airbnb-base',
     rules: {
         "arrow-parens": ["error", "as-needed"],
+        "class-methods-use-this": [0],
         "indent": ["error", 4, {'ignoreComments': true}],
         "comma-dangle": [0],
         "max-len": ["error", 500],
