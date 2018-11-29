@@ -7,7 +7,7 @@ module.exports = {
         "arrow-parens": ["error", "as-needed"],
         "class-methods-use-this": [0],
         "comma-dangle": [0],
-        "indent": ["error", 4, {'ignoreComments': true}],
+        "indent": ["error", 4, {"ignoreComments": true, "SwitchCase": 1}],
         "max-len": ["error", 500],
         "no-console": [0],
         "no-plusplus": [0],
