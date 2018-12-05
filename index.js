@@ -13,6 +13,8 @@ module.exports = {
         "no-plusplus": [0],
         "no-underscore-dangle": ["error", { "allowAfterThis": true, "allowAfterSuper": true }],
         "object-shorthand": [0],
-        "prefer-destructuring": [0]
+        "prefer-destructuring": [0],
+        "no-return-assign": [0],
+        "no-param-reassign": ["error", { "props": false }]
     }
 };
