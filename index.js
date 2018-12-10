@@ -10,6 +10,7 @@ module.exports = {
         "object-shorthand": [0],
         "no-underscore-dangle": ["error", { "allowAfterThis": true, "allowAfterSuper": true }],
         "prefer-destructuring": [0],
-        "no-plusplus": [0]
+        "no-plusplus": [0],
+        "no-multi-spaces": ["error", { ignoreEOLComments: true }]
     }
 };
